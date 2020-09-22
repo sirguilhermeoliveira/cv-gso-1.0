@@ -1,4 +1,5 @@
-# Template Curriculum desenvolvido em React
+# Template Curriculum Vitae
+## Desenvolvido em React
 
 
 ![Alt Text](https://media.giphy.com/media/KyHxz7grLiaG98Nsln/giphy.gif)
