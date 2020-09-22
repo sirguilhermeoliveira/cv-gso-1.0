@@ -1,4 +1,5 @@
-Gif do Projeto:
+# Template Curriculum desenvolvido em React
+
 
 ![Alt Text](https://media.giphy.com/media/KyHxz7grLiaG98Nsln/giphy.gif)
 
